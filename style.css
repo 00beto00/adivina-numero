@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color: #f3f3f3;
+  }
+  
+  h1 {
+    color: #333;
+    font-family: 'Alfa Slab One', cursive;  
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    font-optical-sizing: auto;
+  }
+
+  h4 {
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+
+
+  p {
+
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
+
+  }
+  
+  #mensaje {
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
